@@ -1,0 +1,14 @@
+@font-face{
+    font-family:super;
+    src:url("../src/assets/fonts/SpaceNova-6Rpd1.otf")
+}
+
+
+@import 'tailwindcss';
+
+
+
+@theme{
+    --font-super:super,"sans-serif"
+}
+
